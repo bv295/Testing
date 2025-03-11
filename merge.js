@@ -1,2 +1,3 @@
-const a = 20
-console.log(a)
+const age = 20
+console.log(age)
+
