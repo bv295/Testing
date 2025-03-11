@@ -1,2 +1,3 @@
-const age = 40
+const age = 20
 console.log(age)
+
